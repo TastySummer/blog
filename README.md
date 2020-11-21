@@ -15,3 +15,6 @@ Hi 👋
 
 ## Leetcode Algorithm
 [1. 两数相加——关于Js链表及Js大数相加处理（2020年9月16日）](https://github.com/TastySummer/blog/issues/3)
+
+## ES6 学习笔记
+[1. ES6学习笔记 (2020月11月20日)](https://github.com/TastySummer/blog/issues/4)
